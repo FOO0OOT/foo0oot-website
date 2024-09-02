@@ -1,0 +1,29 @@
+#title {
+    text-align: center;
+    font-size:100px;
+}
+
+#dev-tools{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#picture{
+    display: none;
+    margin: auto;
+}
+
+#notATrap{
+    text-align: center;
+}
+
+#BIG{
+    font-size: 75px;
+}
+
+#return{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
